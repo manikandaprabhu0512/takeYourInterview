@@ -15,7 +15,7 @@ An AI-driven interview preparation platform that generates personalized intervie
 - Instant answer evaluation with feedback and improvement suggestions.
 - Comprehensive post-interview report (correctness, communication, confidence).
 - Secure authentication using Google OAuth 2.0.
-- Deployed with scalable backend (AWS EC2) and frontend (Vercel) .
+- Deployed with backend (Railway) and frontend (Vercel) .
 
 ---
 
@@ -61,7 +61,7 @@ The platform simulates a real interview experience by combining LLM-based questi
 
 ### DevOps & Deployment
 
-- AWS EC2 (backend hosting)
+- Railway (backend hosting)
 - Vercel (frontend hosting)
 - GitHub Actions (CI/CD)
 
@@ -115,7 +115,7 @@ RAZORPAY_KEY_SECRET=your_razorpay_client_secret
 ## 🔗 Live Demo
 
 - Frontend: https://take-your-interview-front-end.vercel.app
-- Backend: http://takeyourinterview-ags-1-682670051.ap-south-1.elb.amazonaws.com
+- Backend: https://takeyourinterview-app-production.up.railway.app
 
 ---
 
