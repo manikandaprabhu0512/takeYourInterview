@@ -10,7 +10,7 @@ An AI-driven interview preparation platform that generates personalized intervie
 - Supports both Technical and HR interview modes.
 - AI-generated questions tailored to user profile and skills.
 - Credit-based interview system to manage usage.
-- Voice interaction using browser-based speech APIs (STT/TTS).
+- Voice interaction using OpenAI  (STT/TTS).
 - Timed responses with difficulty progression (easy → hard).
 - Instant answer evaluation with feedback and improvement suggestions.
 - Comprehensive post-interview report (correctness, communication, confidence).
@@ -115,7 +115,7 @@ RAZORPAY_KEY_SECRET=your_razorpay_client_secret
 ## 🔗 Live Demo
 
 - Frontend: https://take-your-interview-front-end.vercel.app
-- Backend: https://takeyourinterview-app-production.up.railway.app
+- Backend: https://takeyourinterview-app.onrender.com
 
 ---
 
